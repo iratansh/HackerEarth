@@ -1,1 +1,1 @@
-# HackerEarth
+My HackerEarth problem solutions
